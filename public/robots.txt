@@ -1,0 +1,9 @@
+# Chauffit Robots.txt
+
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /_next/
+
+Sitemap: https://www.chauffit.in/sitemap.xml
